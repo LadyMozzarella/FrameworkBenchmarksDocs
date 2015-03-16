@@ -1,4 +1,4 @@
-site_name: TechEmpower Framework Benchmarks
+site_name: TFB
 site_url: /
 site_description: Documentation for TechEmpower Framework Benchmarks.
 repo_url: https://github.com/TechEmpower/FrameworkBenchmarks/
@@ -27,6 +27,7 @@ pages:
 - ['Development/Installation-Guide.md', 'Development', 'Installation Guide']
 - ['Development/Add-Frameworks-or-Tests.md', 'Development', 'Add Frameworks or Tests']
 - ['Development/Testing-and-Debugging.md', 'Development', 'Testing and Debugging']
+- ['Development/Vagrant-Development-Environment.md']
 
 # Benchmarking:
 - ['Benchmarking/Getting-Started-Benchmarking.md', 'Benchmarking', 'Getting Started']
@@ -36,16 +37,9 @@ pages:
 - ['Support/Converse.md', 'Support', 'Join the Conversation']
 - ['Support/FAQ.md', 'Support', 'FAQ']
 
-# ****************************
-# ** Other Pages (Linked to)**
-# ****************************
-
 # Codebase
-- ['Codebase/Configuration-File.md']
-- ['Codebase/Framework-Benchmark-Config-File.md']
-- ['Codebase/Framework-Install-File.md']
-- ['Codebase/Framework-Setup-File.md']
-- ['Codebase/Summary-of-Script-Directories.md']
-
-# Development
-- ['Development/Vagrant-Development-Environment.md']
+- ['Codebase/Configuration-File.md', 'Codebase', 'Configuration File']
+- ['Codebase/Framework-Benchmark-Config-File.md', 'Codebase', 'Benchmark Config File']
+- ['Codebase/Framework-Install-File.md', 'Codebase', 'Install File']
+- ['Codebase/Framework-Setup-File.md', 'Codebase', 'Setup File']
+- ['Codebase/Summary-of-Script-Directories.md', 'Codebase', 'Summary of Script Directories']
