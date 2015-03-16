@@ -1,6 +1,6 @@
-If you're looking to quickly get started developing using the vagrant development environment, consider the [vagrant development environment guide](https://github.com/LadyMozzarella/FrameworkBenchmarks/wiki/Vagrant-Development-Environment). 
+If you're looking to quickly get started developing using the vagrant development environment, consider the [vagrant development environment guide](/Codebase/Vagrant-Development-Environment). 
 
-Take a look at the [Summary of Script Directories section](https://github.com/LadyMozzarella/FrameworkBenchmarks/wiki/Summary-of-Script-Directories) to figure out which directory has scripts relevant to your use case (development or benchmarking).
+Take a look at the [Summary of Script Directories section](/Codebase/Summary-of-Script-Directories) to figure out which directory has scripts relevant to your use case (development or benchmarking).
 
 #Installation Basics
 

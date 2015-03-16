@@ -10,28 +10,28 @@ _Note: We're using the word "framework" loosely to refer to platforms, micro-fra
 
 ####About
 * [Framework Benchmarks](/About/Framework-Benchmarks.md)
-* [TechEmpower](https://github.com/LadyMozzarella/FrameworkBenchmarks/About/TechEmpower)
+* [TechEmpower](/About/TechEmpower)
 
 ####Project Information
-* [Basic Concepts](https://github.com/LadyMozzarella/FrameworkBenchmarks/ProjectInformation/Concepts)
-* [Intro to Codebase - TODO](https://github.com/LadyMozzarella/FrameworkBenchmarks/ProjectInformation/Codebase)
-* [Framework Tests](https://github.com/LadyMozzarella/FrameworkBenchmarks/ProjectInformation/Framework-Tests)
-* [Environment](https://github.com/LadyMozzarella/FrameworkBenchmarks/ProjectInformation/Environment)
-* [Terminology](https://github.com/LadyMozzarella/FrameworkBenchmarks/ProjectInformation/Terminology)
-* [Expected Questions](https://github.com/LadyMozzarella/FrameworkBenchmarks/ProjectInformation//Expected-Questions)
+* [Basic Concepts](/ProjectInformation/Concepts)
+* [Intro to Codebase - TODO](/ProjectInformation/Codebase)
+* [Framework Tests](/ProjectInformation/Framework-Tests)
+* [Environment](/ProjectInformation/Environment)
+* [Terminology](/ProjectInformation/Terminology)
+* [Expected Questions](/ProjectInformation//Expected-Questions)
 
 ####Development
-* [Contributing Guide](https://github.com/LadyMozzarella/FrameworkBenchmarks/Development/Contributing-Guide)
-* [Getting Started](https://github.com/LadyMozzarella/FrameworkBenchmarks/Development/Getting-Started)
-* [Software Installation Guide](https://github.com/LadyMozzarella/FrameworkBenchmarks/Development/Installation-Guide)
-* [Add Frameworks or Tests](https://github.com/LadyMozzarella/FrameworkBenchmarks/Development/Add-Frameworks-or-Tests)
-* [Testing and Debugging](https://github.com/LadyMozzarella/FrameworkBenchmarks/Development/Testing-and-Debugging)
+* [Contributing Guide](/Development/Contributing-Guide)
+* [Getting Started](/Development/Getting-Started)
+* [Software Installation Guide](/Development/Installation-Guide)
+* [Add Frameworks or Tests](/Development/Add-Frameworks-or-Tests)
+* [Testing and Debugging](/Development/Testing-and-Debugging)
 
 ####Benchmarking
-* [Getting Started](https://github.com/LadyMozzarella/FrameworkBenchmarks/Benchmarking/Getting-Started-Benchmarking)
-* [Run the Benchmark](https://github.com/LadyMozzarella/FrameworkBenchmarks/Benchmarking/Running-the-Benchmark)
+* [Getting Started](/Benchmarking/Getting-Started-Benchmarking)
+* [Run the Benchmark](/Benchmarking/Running-the-Benchmark)
 
 ####Support
-* [FAQ](https://github.com/LadyMozzarella/FrameworkBenchmarks/Support/FAQ)
-* [Join the Conversation](https://github.com/LadyMozzarella/FrameworkBenchmarks/Support/Converse)
+* [FAQ](/Support/FAQ)
+* [Join the Conversation](/Support/Converse)
 

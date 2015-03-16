@@ -51,7 +51,7 @@ Here is an example `benchmark_config` from the `Compojure` framework. There are 
 
 * `framework:` Specifies the framework name.
 * `tests:` A list of tests that can be run for this framework. In many cases, this contains a single element for the "default" test, but additional tests can be specified.  Each test name must be unique when concatenated with the framework name. Each test will be run separately in our Rounds, so it is to your benefit to provide multiple variations in case one works better in some cases.
-  * `setup_file:` The location of the [python setup file](https://github.com/LadyMozzarella/FrameworkBenchmarks/wiki/Framework-Setup-File) that can start and stop the test, excluding the `.py` ending. If your different tests require different setup approachs, use another setup file. 
+  * `setup_file:` The location of the [python setup file](/Codebase/Framework-Setup-File) that can start and stop the test, excluding the `.py` ending. If your different tests require different setup approachs, use another setup file. 
   * `json_url (optional):` The URI to the JSON test, typically `/json`
   * `db_url (optional):` The URI to the database test, typically `/db`
   * `query_url (optional):` The URI to the variable query test. The URI must be set up so that an integer can be applied to the end of the URI to specify the number of queries to run.  For example, `/query?queries=`(to yield `/query?queries=20`) or `/query/` (to yield `/query/20`)
@@ -72,4 +72,4 @@ Here is an example `benchmark_config` from the `Compojure` framework. There are 
   * `display_name (metadata):` How to render this test permutation's name on the results web site.  Some permutation names can be really long, so the display_name is provided in order to provide something more succinct.
   * `versus (optional):` The name of another test (elsewhere in this project) that is a subset of this framework.  This allows for the generation of the framework efficiency chart in the results web site. For example, Compojure is compared to "servlet" since Compojure is built on the Servlets platform.
 
-The [requirements section](https://github.com/LadyMozzarella/FrameworkBenchmarks/wiki/Framework-Tests#requirements) explains the expected response for each URL as well all metadata options available. 
+The [requirements section](/ProjectInformation/Framework-Tests#requirements) explains the expected response for each URL as well all metadata options available. 
