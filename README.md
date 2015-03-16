@@ -9,7 +9,7 @@ _Note: We're using the word "framework" loosely to refer to platforms, micro-fra
 ###[TechEmpower Framework Benchmarks](https://www.techempower.com/benchmarks/)
 
 ####About
-* [Framework Benchmarks](https://github.com/LadyMozzarella/FrameworkBenchmarks/About/Framework-Benchmarks)
+* [Framework Benchmarks](/About/Framework-Benchmarks.md)
 * [TechEmpower](https://github.com/LadyMozzarella/FrameworkBenchmarks/About/TechEmpower)
 
 ####Project Information
