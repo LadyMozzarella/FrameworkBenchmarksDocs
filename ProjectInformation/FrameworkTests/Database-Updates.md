@@ -1,9 +1,9 @@
 #Test type 5
-The __Database Updates__ test is a variation of [Test #3](https://github.com/LadyMozzarella/FrameworkBenchmarks/wiki/Multiple-Database-Queries) that exercises the ORM's persistence of objects and the database driver's performance at running `UPDATE` statements or similar. The spirit of this test is to exercise a variable number of read-then-write style database operations.
+The __Database Updates__ test is a variation of [Test #3](https://github.com/LadyMozzarella/FrameworkBenchmarks/wiki/Multiple-Database-Queries.md) that exercises the ORM's persistence of objects and the database driver's performance at running `UPDATE` statements or similar. The spirit of this test is to exercise a variable number of read-then-write style database operations.
 
 ##Requirements
 
-In addition to the requirements listed below, please note the [general requirements](https://github.com/LadyMozzarella/FrameworkBenchmarks/wiki/Framework-Tests#general-requirements) (listed on the [Framework Tests](https://github.com/LadyMozzarella/FrameworkBenchmarks/wiki/Framework-Tests) page) that apply to all implemented tests.
+In addition to the requirements listed below, please note the [general requirements](/ProjectInformation/FrameworkTests/Framework-Tests.md#general-requirements) (listed on the [Framework Tests](/ProjectInformation/FrameworkTests/Framework-Tests.md) page) that apply to all implemented tests.
 
 1. The recommended URI is __/updates__.
 2. For every request, an integer `query` string parameter named queries must be retrieved from the request. The parameter specifies the number of rows to fetch and update in preparing the HTTP response (see below).
