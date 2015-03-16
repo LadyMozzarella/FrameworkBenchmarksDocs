@@ -6,32 +6,3 @@ _Note: We're using the word "framework" loosely to refer to platforms, micro-fra
 
 [Read more and see the latest results of our tests on Amazon EC2 and physical hardware](http://www.techempower.com/benchmarks/). 
 
-###[TechEmpower Framework Benchmarks](https://www.techempower.com/benchmarks/)
-
-####About
-* [Framework Benchmarks](About/Framework-Benchmarks.md)
-* [TechEmpower](About/TechEmpower.md)
-
-####Project Information
-* [Basic Concepts](ProjectInformation/Concepts.md)
-* [Intro to Codebase - TODO](ProjectInformation/Codebase.md)
-* [Framework Tests](ProjectInformation/Framework-Tests.md)
-* [Environment](ProjectInformation/Environment.md)
-* [Terminology](ProjectInformation/Terminology.md)
-* [Expected Questions](ProjectInformation/Expected-Questions.md)
-
-####Development
-* [Contributing Guide](Development/Contributing-Guide.md)
-* [Getting Started](Development/Getting-Started.md)
-* [Software Installation Guide](Development/Installation-Guide.md)
-* [Add Frameworks or Tests](Development/Add-Frameworks-or-Tests.md)
-* [Testing and Debugging](Development/Testing-and-Debugging.md)
-
-####Benchmarking
-* [Getting Started](Benchmarking/Getting-Started-Benchmarking.md)
-* [Run the Benchmark](Benchmarking/Running-the-Benchmark.md)
-
-####Support
-* [FAQ](Support/FAQ.md)
-* [Join the Conversation](Support/Converse.md)
-
