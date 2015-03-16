@@ -1,0 +1,1 @@
+Alternatively you may choose to [set up a vagrant environment](https://github.com/LadyMozzarella/FrameworkBenchmarks/wiki/Vagrant-Development-Environment), which might help you get started a little quicker. 

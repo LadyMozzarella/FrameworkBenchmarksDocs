@@ -1,0 +1,16 @@
+When adding a new framework or new test to an existing framework, please follow these steps:
+
+* Update/add a [benchmark_config](https://github.com/LadyMozzarella/FrameworkBenchmarks/Codebase/Framework-Benchmark-Config-File)
+* Update/add a [setup file](https://github.com/LadyMozzarella/FrameworkBenchmarks/Codebase/Framework-Setup-File)
+* Update/add an [install.sh file](https://github.com/LadyMozzarella/FrameworkBenchmarks/Codebase/Framework-Install-File)
+* When creating a database test, use the table/collection `hello_world`. Our database setup scripts are stored inside the `config/` folder if you need to see the database schema
+
+### Testing on both Windows and Linux
+
+If your framework and platform can execute on both Windows and Linux, we encourage you to specify tests for both operating systems.  This increases the amount of testing you should do before submitting your pull-request, however, so we understand if you start with just one of the two. Travis-CI cannot automatically verify Windows-based tests, and therefore you should verify your code manually. 
+
+The steps involved are:
+
+* Assuming you have implemented the Linux test already, add a new test permutation to your `benchmark_config` file for the Windows test.  When the benchmark script runs on Linux, it skips tests where `os` in `Windows` and vice versa. 
+* Add the necessary tweaks to your [setup file](#setup-files) to start and stop on the new operating system.  See, for example, [the script for Go](frameworks/Go/go/setup.py).
+* Test on Windows and Linux to make sure everything works as expected.
