@@ -43,7 +43,7 @@ Since the tests can run for several hours, it helps to set everything up so that
 2. Enable passwordless sudo access ([Google for help](https://www.google.com/#hl=en&q=passwordless%20sudo)).
 
 After this, clone our repository and run `toolset/run-tests.py --help` for 
-detailed guidance. You can also refer to the [Benchmark Suite Setup README file](../setup/README.md) for more information. 
+detailed guidance. You can also refer to the [Benchmark Suite Setup file](https://github.com/TechEmpower/FrameworkBenchmarks/blob/master/toolset/setup/README.md) for more information. 
 
 **Installation and Usage Details**
 

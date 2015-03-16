@@ -1,1 +1,50 @@
 site_name: My Docs
+site_url: /
+site_description: Documentation for TechEmpower Framework Benchmarks.
+pages: 
+- ['index.md', '**hidden**']
+
+# **************************
+# **DROP DOWN MENU OPTIONS** 
+# **************************
+
+# About:
+- ['About/Framework-Benchmarks.md', 'About', 'Framework Benchmarks']
+- ['About/TechEmpower.md', 'About', 'TechEmpower']
+
+# Project Information:
+- ['ProjectInformation/Concepts.md', 'Project Information', 'Basic Concepts']
+- ['ProjectInformation/Codebase.md', 'Project Information', 'TODO - Intro to Codebase']
+- ['ProjectInformation/Framework-Tests.md', 'Project Information', 'Framework Tests']
+- ['ProjectInformation/Environment.md', 'Project Information', 'Environment']
+- ['ProjectInformation/Terminology.md', 'Project Information', 'Terminology']
+- ['ProjectInformation/Expected-Questions.md', 'Project Information', 'Expected Questions']
+
+# Development:
+- ['Development/Contributing-Guide.md', 'Development', 'Contributing Guide']
+- ['Development/Getting-Started.md', 'Development', 'Getting Guide']
+- ['Development/Installation-Guide.md', 'Development', 'Installation Guide']
+- ['Development/Add-Frameworks-or-Tests.md', 'Development', 'Add Frameworks or Tests']
+- ['Development/Testing-and-Debugging.md', 'Development', 'Testing and Debugging']
+
+# Benchmarking:
+- ['Benchmarking/Getting-Started-Benchmarking.md', 'Benchmarking', 'Getting Started']
+- ['Benchmarking/Running-the-Benchmark.md', 'Benchmarking', 'Run the Benchmark']
+
+# Support
+- ['Support/Converse.md', 'Support', 'Join the Conversation']
+- ['Support/FAQ.md', 'Support', 'FAQ']
+
+# ****************************
+# ** Other Pages (Linked to)**
+# ****************************
+
+# Codebase
+- ['Codebase/Configuration-File.md', '**hidden**']
+- ['Codebase/Framework-Benchmark-Config-File.md', '**hidden**']
+- ['Codebase/Framework-Install-File.md', '**hidden**']
+- ['Codebase/Framework-Setup-File.md', '**hidden**']
+- ['Codebase/Summary-of-Script-Directories.md', '**hidden**']
+
+# Development
+- ['Development/Vagrant-Development-Environment.md', '**hidden**']
