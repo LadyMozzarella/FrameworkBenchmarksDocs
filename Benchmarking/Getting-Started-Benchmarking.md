@@ -1,8 +1,8 @@
-This is the getting started guide for __benchmarking__. If you're interested in __development__ please visit the [getting started guide for development](/Benchmarking/Getting-Started).
+This is the getting started guide for __benchmarking__. If you're interested in __development__ please visit the [getting started guide for development](../Development/Getting-Started.md).
 
 You will need three computers (or virtual machines) networked together to fill the three benchmark roles of database server, load generation server, and web framework server. We provide a Vagrant script to setup a full benchmark-ready Linux environment in Amazon EC2.
 
-If you wish to benchmark a framework on a non-Amazon cloud, e.g. Azure or Rackspace, or a framework that requires Windows OS or SQL server, there are some limited helper scripts available at the moment. We welcome any pull requests along these lines. While you can always use *manual deployment*, automated scripts exist for many scenarios. Take a look at the [Summary of Script Directories section](/Codebase/Summary-of-Script-Directories) to figure out which directory has scripts relevant to your use case. 
+If you wish to benchmark a framework on a non-Amazon cloud, e.g. Azure or Rackspace, or a framework that requires Windows OS or SQL server, there are some limited helper scripts available at the moment. We welcome any pull requests along these lines. While you can always use *manual deployment*, automated scripts exist for many scenarios. Take a look at the [Summary of Script Directories section](../Codebase/Summary-of-Script-Directories.md) to figure out which directory has scripts relevant to your use case. 
 
 *Please note: Running this software will make many modifications to software and settings, so it's recommended you either use a VM or hardware dedicated to this project.*
 
