@@ -1,6 +1,6 @@
-##What is TechEmpower?
-
 ![TechEmpower Logo](img/te-logo-blue-400.png)
+
+##What is TechEmpower?
 
 [TechEmpower](https://www.techempower.com/) is a custom software development firm located in El Segundo, California that provies web and mobile application development services.
 
