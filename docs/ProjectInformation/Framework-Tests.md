@@ -6,7 +6,7 @@ This project is evolving and we will periodically add new test types. As new tes
 
 Each test type has their own requirements and specifications. Visit their sections for more details and complete requirements.
 
-1. [__JSON Serialization__](#JSON-Serialization): Exercises the framework fundamentals including keep-alive support, request routing, request header parsing, object instantiation, JSON serialization, response header generation, and request count throughput.
+1. [__JSON Serialization__](#json-serialization): Exercises the framework fundamentals including keep-alive support, request routing, request header parsing, object instantiation, JSON serialization, response header generation, and request count throughput.
 2. [__Single Database Query__](#Single-Database-Query): Exercises the framework's object-relational mapper (ORM), random number generator, database driver, and database connection pool.
 3. [__Multiple Database Queries__](#Multiple-Database-Queries): A variation of [Test #2]#Single-Database-Query) and also uses the __World__ table. Multiple rows are fetched to more dramatically punish the database driver and connection pool. At the highest queries-per-request tested (20), this test demonstrates all frameworks' convergence toward zero requests-per-second as database activity increases.
 4. [__Fortunes__](#Fortunes): Exercises the ORM, database connectivity, dynamic-size collections, sorting, server-side templates, XSS countermeasures, and character encoding.
