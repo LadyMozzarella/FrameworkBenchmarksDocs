@@ -20,4 +20,3 @@ When run, `TFB` will:
 * launch the load generation software on the `load server`
 * gather the results
 * halt the framework
-
