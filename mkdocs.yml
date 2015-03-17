@@ -18,7 +18,6 @@ pages:
 # Project Information:
 - ['Project-Information/index.md', 'Project Information']
 - ['Project-Information/Concepts.md', 'Project Information', 'Basic Concepts']
-- ['Project-Information/Codebase.md', 'Project Information', 'TODO - Intro to Codebase']
 - ['Project-Information/Framework-Tests.md', 'Project Information', 'Framework Tests']
 - ['Project-Information/Environment.md', 'Project Information', 'Environment']
 - ['Project-Information/Terminology.md', 'Project Information', 'Terminology']

@@ -6,7 +6,7 @@
 
 Please see the corresponding document for more information about [TechEmpower](About/TechEmpower), the [Framework Benchmarks](About/Framework-Benchmarks), or the [Documentation](About/Documentation).
 
-The main documentation for the site is organized into a few sections:
+The main documentation for the site is organized into a few sections. Visit each section to get more details related to that area, a more detailed overview of what's in each section, and where to find information that isn't listed. Here are the major sections in the documentation:
 
 | Section | Summary |
 |:-------:|:------- |
