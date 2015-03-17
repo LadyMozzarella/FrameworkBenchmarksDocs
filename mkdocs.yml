@@ -15,6 +15,7 @@ pages:
 - ['About/TechEmpower.md', 'About', 'TechEmpower']
 
 # Project Information:
+- ['Project-Information/index.md', 'Project Information']
 - ['Project-Information/Concepts.md', 'Project Information', 'Basic Concepts']
 - ['Project-Information/Codebase.md', 'Project Information', 'TODO - Intro to Codebase']
 - ['Project-Information/Framework-Tests.md', 'Project Information', 'Framework Tests']
@@ -23,6 +24,7 @@ pages:
 - ['Project-Information/Expected-Questions.md', 'Project Information', 'Expected Questions']
 
 # Development:
+- ['Development/index.md', 'Development']
 - ['Development/Contributing-Guide.md', 'Development', 'Contributing Guide']
 - ['Development/Getting-Started.md', 'Development', 'Getting Guide']
 - ['Development/Installation-Guide.md', 'Development', 'Installation Guide']
@@ -31,10 +33,12 @@ pages:
 - ['Development/Vagrant-Development-Environment.md']
 
 # Benchmarking:
+- ['Benchmarking/index.md', 'Benchmarking']
 - ['Benchmarking/Getting-Started-Benchmarking.md', 'Benchmarking', 'Getting Started']
 - ['Benchmarking/Running-the-Benchmark.md', 'Benchmarking', 'Run the Benchmark']
 
 # Codebase
+- ['Codebase/index.md', 'Codebase']
 - ['Codebase/Configuration-File.md', 'Codebase', 'Configuration File']
 - ['Codebase/Framework-Benchmark-Config-File.md', 'Codebase', 'Benchmark Config File']
 - ['Codebase/Framework-Install-File.md', 'Codebase', 'Install File']
@@ -42,7 +46,6 @@ pages:
 - ['Codebase/Summary-of-Script-Directories.md', 'Codebase', 'Summary of Script Directories']
 
 # Support
+- ['Support/index.md', 'Support']
 - ['Support/Converse.md', 'Support', 'Join the Conversation']
 - ['Support/FAQ.md', 'Support', 'FAQ']
-
-# Images
