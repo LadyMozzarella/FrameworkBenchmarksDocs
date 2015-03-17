@@ -10,7 +10,7 @@ Each test type has their own requirements and specifications. Visit their sectio
 2. [__Single Database Query__](#single-database-query): Exercises the framework's object-relational mapper (ORM), random number generator, database driver, and database connection pool.
 3. [__Multiple Database Queries__](#multiple-database-queries): A variation of [Test #2]#Single-Database-Query) and also uses the __World__ table. Multiple rows are fetched to more dramatically punish the database driver and connection pool. At the highest queries-per-request tested (20), this test demonstrates all frameworks' convergence toward zero requests-per-second as database activity increases.
 4. [__Fortunes__](#fortunes): Exercises the ORM, database connectivity, dynamic-size collections, sorting, server-side templates, XSS countermeasures, and character encoding.
-5. [__Database Updates__](#database-updates): A variation of [Test #3](#Multiple-Database-Queries) that exercises the ORM's persistence of objects and the database driver's performance at running `UPDATE` statements or similar. The spirit of this test is to exercise a variable number of read-then-write style database operations.
+5. [__Database Updates__](#database-updates): A variation of [Test #3](#multiple-database-queries) that exercises the ORM's persistence of objects and the database driver's performance at running `UPDATE` statements or similar. The spirit of this test is to exercise a variable number of read-then-write style database operations.
 6. [__Plaintext__](#plaintext): An exercise of the request-routing fundamentals only, designed to demonstrate the capacity of high-performance platforms in particular. Requests will be sent using HTTP pipelining. The response payload is still small, meaning good performance is still necessary in order to saturate the gigabit Ethernet of the test environment.
 
 #General Test Requirements
@@ -122,7 +122,7 @@ The following requirements apply to all test types below.
 
 3. ##Multiple Database Queries 
 
-    The __Multiple Database Queries__ test is a variation of [Test #2](https://github.com/LadyMozzarella/FrameworkBenchmarks/wiki/Single-Database-Query) and also uses the __World__ table. Multiple rows are fetched to more dramatically punish the database driver and connection pool. At the highest queries-per-request tested (20), this test demonstrates all frameworks' convergence toward zero requests-per-second as database activity increases.
+    The __Multiple Database Queries__ test is a variation of [Test #2](#single-database-query) and also uses the __World__ table. Multiple rows are fetched to more dramatically punish the database driver and connection pool. At the highest queries-per-request tested (20), this test demonstrates all frameworks' convergence toward zero requests-per-second as database activity increases.
 
     ###Requirements
 
@@ -178,7 +178,7 @@ The following requirements apply to all test types below.
 
     ###Requirements
 
-    In addition to the requirements listed below, please note the [general requirements](https://github.com/LadyMozzarella/FrameworkBenchmarks/wiki/Framework-Tests#general-requirements) (listed on the [Framework Tests](https://github.com/LadyMozzarella/FrameworkBenchmarks/wiki/Framework-Tests) page) that apply to all implemented tests.
+    In addition to the requirements listed below, please note the [general requirements](#general-requirements) that apply to all implemented tests.
 
     1. The recommended URI is __/fortunes__.
     2. A __Fortune__ database table contains a dozen Unix-style fortune-cookie messages.
@@ -254,7 +254,7 @@ The following requirements apply to all test types below.
 
 5. ##Database Updates
 
-    The __Database Updates__ test is a variation of [Test #3](#multiple-database-queries.md) that exercises the ORM's persistence of objects and the database driver's performance at running `UPDATE` statements or similar. The spirit of this test is to exercise a variable number of read-then-write style database operations.
+    The __Database Updates__ test is a variation of [Test #3](#multiple-database-queries) that exercises the ORM's persistence of objects and the database driver's performance at running `UPDATE` statements or similar. The spirit of this test is to exercise a variable number of read-then-write style database operations.
 
     ###Requirements
 
