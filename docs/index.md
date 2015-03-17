@@ -1,7 +1,16 @@
+#Welcome to TechEmpower Framework Benchmarks (TFB) Documentation
+
 ![TechEmpower Logo](img/te-logo-black-200.png)
 
-__TechEmpower Framework Benchmarks__ is a performance comparison of many web application frameworks executing fundamental tasks such as JSON serialization, database access, and server-side template composition. Each framework is operating in a realistic production configuration. Results are captured on Amazon EC2 and on physical hardware. The project is still evolving, and as it does so, the [GitHub repository](https://github.com/TechEmpower/FrameworkBenchmarks) for the project is turning into a showcase of sorts for each framework's best-practices.
+[__TechEmpower Framework Benchmarks__](http://www.techempower.com/benchmarks/) is an open source, performance comparison of many web application frameworks executing fundamental tasks such as JSON serialization, database access, and server-side template composition.
 
-_Note: We're using the word "framework" loosely to refer to platforms, micro-frameworks, and full-stack frameworks._
+Please see the corresponding document for more information about [TechEmpower](About/TechEmpower), the [Framework Benchmarks](About/Framework-Benchmarks), or the [Documentation](About/Documentation).
 
-[Read more and see the latest results of our tests on Amazon EC2 and physical hardware](http://www.techempower.com/benchmarks/). 
+The main documentation for the site is organized into a few sections:
+
+| Section | Summary |
+| ------- | :------ |
+|[Project Information](Project-Information/)||
+|[Development](Development/)||
+|[Benchmarking](Benchmarking/)|Running the benchmarks yourself|
+|[Support](Support/)||

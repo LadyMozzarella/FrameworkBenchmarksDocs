@@ -13,6 +13,7 @@ pages:
 # About:
 - ['About/Framework-Benchmarks.md', 'About', 'Framework Benchmarks']
 - ['About/TechEmpower.md', 'About', 'TechEmpower']
+- ['About/Documentation.md', 'About', 'Documentation']
 
 # Project Information:
 - ['Project-Information/index.md', 'Project Information']

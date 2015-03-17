@@ -1,5 +1,7 @@
 The __TechEmpower Framework Benchmarks__ is a project that provides representative performance measures across a wide field of web application frameworks. With much help from the community, coverage is quite broad and we are happy to broaden it further with contributions. The project presently includes frameworks on many languages including `Go`, `Python`, `Java`, `Ruby`, `PHP`, `C#`, `Clojure`, `Groovy`, `Dart`, `JavaScript`, `Erlang`, `Haskell`, `Scala`, `Perl`, `Lua`, `C`, and others.  The current tests exercise plaintext responses, JSON seralization, database reads and writes via the object-relational mapper (ORM), collections, sorting, server-side templates, and XSS counter-measures. Future tests will exercise other components and greater computation.
 
+_Note: We're using the word "framework" loosely to refer to platforms, micro-frameworks, and full-stack frameworks._
+
 #Results
 View the [latest results](https://www.techempower.com/benchmarks/), or check out the [previous rounds](https://www.techempower.com/benchmarks/#section=previous-rounds).
 
