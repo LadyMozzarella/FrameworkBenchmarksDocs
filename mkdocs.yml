@@ -10,14 +10,8 @@ pages:
 # **DROP DOWN MENU OPTIONS** 
 # **************************
 
-# About:
-- ['About/Framework-Benchmarks.md', 'About', 'Framework Benchmarks']
-- ['About/TechEmpower.md', 'About', 'TechEmpower']
-- ['About/Documentation.md', 'About', 'Documentation']
-- ['About/License.md', 'About', 'License']
-
 # Project Information:
-- ['Project-Information/index.md', 'Project Information']
+- ['Project-Information/index.md']
 - ['Project-Information/Concepts.md', 'Project Information', 'Basic Concepts']
 - ['Project-Information/Framework-Tests.md', 'Project Information', 'Framework Tests']
 - ['Project-Information/Environment.md', 'Project Information', 'Environment']
@@ -25,7 +19,7 @@ pages:
 - ['Project-Information/Expected-Questions.md', 'Project Information', 'Expected Questions']
 
 # Development:
-- ['Development/index.md', 'Development']
+- ['Development/index.md']
 - ['Development/Contributing-Guide.md', 'Development', 'Contributing Guide']
 - ['Development/Getting-Started.md', 'Development', 'Getting Guide']
 - ['Development/Installation-Guide.md', 'Development', 'Installation Guide']
@@ -34,7 +28,7 @@ pages:
 - ['Development/Vagrant-Development-Environment.md']
 
 # Benchmarking:
-- ['Benchmarking/index.md', 'Benchmarking']
+- ['Benchmarking/index.md']
 - ['Benchmarking/Getting-Started-Benchmarking.md', 'Benchmarking', 'Getting Started']
 - ['Benchmarking/Running-the-Benchmark.md', 'Benchmarking', 'Run the Benchmark']
 
@@ -45,6 +39,12 @@ pages:
 - ['Codebase/Framework-Install-File.md', 'Codebase', 'Install File']
 - ['Codebase/Framework-Setup-File.md', 'Codebase', 'Setup File']
 - ['Codebase/Summary-of-Script-Directories.md', 'Codebase', 'Summary of Script Directories']
+
+# About:
+- ['About/Framework-Benchmarks.md', 'About', 'Framework Benchmarks']
+- ['About/TechEmpower.md', 'About', 'TechEmpower']
+- ['About/Documentation.md', 'About', 'Documentation']
+- ['About/License.md', 'About', 'License']
 
 # Support
 - ['Support/index.md', 'Support']
