@@ -14,12 +14,12 @@ pages:
 - ['About/TechEmpower.md', 'About', 'TechEmpower']
 
 # Project Information:
-- ['ProjectInformation/Concepts.md', 'Project Information', 'Basic Concepts']
-- ['ProjectInformation/Codebase.md', 'Project Information', 'TODO - Intro to Codebase']
-- ['ProjectInformation/Framework-Tests.md', 'Project Information', 'Framework Tests']
-- ['ProjectInformation/Environment.md', 'Project Information', 'Environment']
-- ['ProjectInformation/Terminology.md', 'Project Information', 'Terminology']
-- ['ProjectInformation/Expected-Questions.md', 'Project Information', 'Expected Questions']
+- ['Project-Information/Concepts.md', 'Project Information', 'Basic Concepts']
+- ['Project-Information/Codebase.md', 'Project Information', 'TODO - Intro to Codebase']
+- ['Project-Information/Framework-Tests.md', 'Project Information', 'Framework Tests']
+- ['Project-Information/Environment.md', 'Project Information', 'Environment']
+- ['Project-Information/Terminology.md', 'Project Information', 'Terminology']
+- ['Project-Information/Expected-Questions.md', 'Project Information', 'Expected Questions']
 
 # Development:
 - ['Development/Contributing-Guide.md', 'Development', 'Contributing Guide']
