@@ -9,7 +9,7 @@ Please see the corresponding document for more information about [TechEmpower](A
 The main documentation for the site is organized into a few sections:
 
 | Section | Summary |
-| ------- | :------ |
+| ------: | :------ |
 |[Project Information](Project-Information/)| General information regarding the project terminology, concepts, and project scope. |
 |[Development](Development/)| Guides and documents that assist with getting set up for development, adding a test or framework, and adding features to the benchmark suite. |
 |[Benchmarking](Benchmarking/)| Assistance getting set up to run the benchmark, and running the benchmarks yourself. |
