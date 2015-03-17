@@ -1,6 +1,7 @@
 site_name: TechEmpower Framework Benchmarks
 site_url: /
 site_description: Documentation for TechEmpower Framework Benchmarks.
+site_favicon: img/favicon.png
 repo_url: https://github.com/TechEmpower/FrameworkBenchmarks/
 pages: 
 - ['index.md']
@@ -43,3 +44,5 @@ pages:
 # Support
 - ['Support/Converse.md', 'Support', 'Join the Conversation']
 - ['Support/FAQ.md', 'Support', 'FAQ']
+
+# Images
