@@ -29,7 +29,7 @@ The following requirements apply to all test types below.
 
     ###Requirements
 
-    In addition to the requirements listed below, please note the [general requirements](#general-requirements) that apply to all implemented tests.
+    In addition to the requirements listed below, please note the [general requirements](#general-test-requirements) that apply to all implemented tests.
 
     1. For each request, an object mapping the key `message` to `Hello, World!` must be instantiated.
     2. The recommended URI is __/json__.
@@ -75,7 +75,7 @@ The following requirements apply to all test types below.
 
     ###Requirements
 
-    In addition to the requirements listed below, please note the [general requirements](#general-requirements) that apply to all implemented tests.
+    In addition to the requirements listed below, please note the [general requirements](#general-test-requirements) that apply to all implemented tests.
 
     1. For every request, a single row from a __World__ table must be retrieved from a database table.
     2. The recommended URI is __/db__.
@@ -126,7 +126,7 @@ The following requirements apply to all test types below.
 
     ###Requirements
 
-    In addition to the requirements listed below, please note the [general requirements](#general-requirements) that apply to all implemented tests.
+    In addition to the requirements listed below, please note the [general requirements](#general-test-requirements) that apply to all implemented tests.
 
     1. For every request, an integer `query` string parameter named queries must be retrieved from the request. The parameter specifies the number of database queries to execute in preparing the HTTP response (see below).
     2. The recommended URI is __/queries__.
@@ -178,7 +178,7 @@ The following requirements apply to all test types below.
 
     ###Requirements
 
-    In addition to the requirements listed below, please note the [general requirements](#general-requirements) that apply to all implemented tests.
+    In addition to the requirements listed below, please note the [general requirements](#general-test-requirements) that apply to all implemented tests.
 
     1. The recommended URI is __/fortunes__.
     2. A __Fortune__ database table contains a dozen Unix-style fortune-cookie messages.
@@ -258,7 +258,7 @@ The following requirements apply to all test types below.
 
     ###Requirements
 
-    In addition to the requirements listed below, please note the [general requirements](#general-requirements) that apply to all implemented tests.
+    In addition to the requirements listed below, please note the [general requirements](#general-test-requirements) that apply to all implemented tests.
 
     1. The recommended URI is __/updates__.
     2. For every request, an integer `query` string parameter named queries must be retrieved from the request. The parameter specifies the number of rows to fetch and update in preparing the HTTP response (see below).
@@ -315,7 +315,7 @@ The following requirements apply to all test types below.
 
     ###Requirements
 
-    In addition to the requirements listed below, please note the [general requirements](#general-requirements) that apply to all implemented tests.
+    In addition to the requirements listed below, please note the [general requirements](#general-test-requirements) that apply to all implemented tests.
 
     1. The recommended URI is __/plaintext__.
     2. The response content type must be set to `text/plain`.
