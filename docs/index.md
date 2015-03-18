@@ -1,5 +1,7 @@
 #Welcome to TechEmpower Framework Benchmarks (TFB) Documentation
 
+Are we fixed? :)
+
 ![TechEmpower Logo](img/te-logo-black-200.png)
 
 [__TechEmpower Framework Benchmarks__](http://www.techempower.com/benchmarks/) is an open source, performance comparison of many web application frameworks executing fundamental tasks such as JSON serialization, database access, and server-side template composition.
